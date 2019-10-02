@@ -49,4 +49,4 @@ Hi, I am.[Kee Magbanua](https://github.com/samcode23)
 
 Hi, I am [Ajey Prasand](https://github.com/ajeyprasand)
 
-Hi. I am [Nitin] (https://github.com/yetanotherwebdev)
+Hi. I am [Nitin](https://github.com/yetanotherwebdev)
